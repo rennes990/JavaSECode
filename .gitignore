@@ -1,0 +1,21 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# 忽略所有out目录
+out/
+# 忽略所有.idea目录
+.idea
+# 忽略所有.iml文件
+*.iml
+
+# Mac
+.DS_Store
+ 
+# Maven
+# log/
+# target/
